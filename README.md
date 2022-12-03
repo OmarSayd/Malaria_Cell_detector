@@ -1,5 +1,7 @@
 # Malaria_Cell_detector
-This is the project on Malaria cell detector. I used Google COLAB for training and testing the performance of this model. 
+This is the project on Malaria cell detector. I used Google COLAB for training and testing purpose since they provide free GPU and TPU. 
+The zip file containing the data set can be downloaded from this link.
+https://drive.google.com/file/d/105HQsg4_5-stRzLKYp-UJdFPT1YECan7/view?usp=share_link
 
 To run the program...
 
