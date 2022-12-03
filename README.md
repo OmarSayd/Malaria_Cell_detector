@@ -1,5 +1,5 @@
 # Malaria_Cell_detector
-This is the project on Malaria cell detector.
+This is the project on Malaria cell detector. I used Google COLAB for training and testing the performance of this model. 
 
 To run the program...
 
